@@ -1,6 +1,3 @@
-//Andrew Hudson
-//ash68320
-//700656832
 //This program creates the class Traversal and runs the program
 
 import java.io.*;
