@@ -1,7 +1,3 @@
-//Andrew Hudson
-//700656832
-//ash68320
-//a3
 //This program creates the Cram class and runs it in the main
 
 import java.util.InputMismatchException;
