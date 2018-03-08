@@ -1,5 +1,3 @@
-//Andrew Hudson
-
 public class ListNode<E> {
   private E item;
   private ListNode<E> next;
