@@ -1,5 +1,5 @@
 # Java
-Some of my Java work
+This is some of my Java work.
 
 I have taken Programming 2 and Data Structures in Java. I plan on taking Advanced Java Programming in the Fall 2018. Java is my favorite programming language and the one I'm most comfortable in. As of now, I'm reviewing Java syntax, fine-tuning my knowledge on the theory, and self-teaching myself concepts we never discussed in class.
 
