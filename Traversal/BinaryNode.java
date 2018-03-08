@@ -1,6 +1,3 @@
-//Andrew Hudson
-//ash68320
-//700656832
 //This program creates the class BinaryNode
 
 public class BinaryNode {
