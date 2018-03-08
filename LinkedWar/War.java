@@ -1,5 +1,3 @@
-//Andrew Hudson
-
 import java.util.Scanner;
 
 public class War {
