@@ -1,7 +1,3 @@
-//Andrew Hudson
-//700656832
-//ash68320
-//a2
 //This program creates the class BeetleGame and will run the Beetle game
 
 import java.util.*;
