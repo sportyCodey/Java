@@ -1,7 +1,3 @@
-//Andrew Hudson
-//700656832
-//ash68320
-//a4
 //This program creates the interface Stack<E>
 
 public interface Stack<E> {
