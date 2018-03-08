@@ -1,5 +1,3 @@
-//Andrew Hudson
-
 public class Card {
 
   public static final int SPADES = 0;
