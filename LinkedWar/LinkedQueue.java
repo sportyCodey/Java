@@ -1,5 +1,3 @@
-//Andrew Hudson
-
 public class LinkedQueue<E> implements Queue<E> {
   private ListNode<E> front;
   private ListNode<E> back;
