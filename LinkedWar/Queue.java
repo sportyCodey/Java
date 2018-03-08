@@ -1,5 +1,3 @@
-//Andrew Hudson
-
 public interface Queue<E> {
 
   public void add(E target);
