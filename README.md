@@ -12,7 +12,7 @@ QuickSort,
 Traversal
 *********************************************************
 
-Solutions to practice exercises in Programming 2 and self-study:
+Solutions to practice exercises in the Programming 2 class I took and from self-study:
 Exercise_Problems1,
 Exercise_Problems2,
 (Please note the problems are in no specific order)
