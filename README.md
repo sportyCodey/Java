@@ -1,7 +1,7 @@
 # Java
 Some of my work in Java
 
-Before you get into the details. Here's a quick run down of what's posted by each folder:
+Before I get into the details. Here's a quick run down of what's posted by each folder:
 
 Solutions to problems in the Data Structures class I took:
 Beetle,
