@@ -1,6 +1,39 @@
 # Java
 Some of my work in Java
 
+Before you get into the details. Here's a quick run down of what's posted by each folder:
+
+Solutions to problems in the Data Structures class I took:
+Beetle
+Cram
+IdiotsDelight
+LinkedWar
+QuickSort
+Traversal
+*********************************************************
+
+Solutions to practice exercises in Programming 2 and self-study:
+Exercise_Problems1
+Exercise_Problems2
+(Please note the problems are in no specific order)
+*********************************************************
+
+Java OpenGL (JOGL) programs I've worked on for fun. These are also solutions from a textbook:
+Java OpenGL
+*********************************************************
+
+Some of the programs need text files and images posted in these folders:
+Text&BinaryFiles
+card
+image
+*********************************************************
+
+Games I made (more on that in the description below):
+Games
+*********************************************************
+
+
+
 I have taken Programming 2 and Data Structures in Java. I plan on taking Advanced Java Programming in the Fall 2018. Java is my favorite programming language and the one I'm most comfortable in. As of now, I'm reviewing Java syntax, fine-tuning my knowledge on the theory, and self-teaching myself concepts we never discussed in class.
 
 The work shown was done in my beginner and intermediate stages of learning Java. Every program is a solution to problems taken from Introduction to Java Programming Comprehensive Version 10th Edition by Liang. These programs were used to help me familiarize myself with the syntax and logic of a certain chapter I was studying, or they were simply classroom assignments that I had to do. The folders other than "MoreJava" are solutions to the textbook in my data structure class.
