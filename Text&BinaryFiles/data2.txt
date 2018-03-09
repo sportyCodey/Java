@@ -1,0 +1,9 @@
+Name,Type,Price,Servings,TotalCalories
+Fries,Side,0.5,14,2570
+CupCakes,Dessert,0.7,10,4000
+Candy,Dessert,1,12,150
+Hotdog,Main,1.1,23,2000
+CheeseCake,Dessert,1.2,11,5000
+Chips,Side,1.5,17,2000
+Banana,Side,1.7,10,10.5
+Hamburger,Main,7,5,3250
