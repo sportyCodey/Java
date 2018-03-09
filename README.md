@@ -4,17 +4,17 @@ Some of my work in Java
 Before you get into the details. Here's a quick run down of what's posted by each folder:
 
 Solutions to problems in the Data Structures class I took:
-Beetle
-Cram
-IdiotsDelight
-LinkedWar
-QuickSort
+Beetle,
+Cram,
+IdiotsDelight,
+LinkedWar,
+QuickSort,
 Traversal
 *********************************************************
 
 Solutions to practice exercises in Programming 2 and self-study:
-Exercise_Problems1
-Exercise_Problems2
+Exercise_Problems1,
+Exercise_Problems2,
 (Please note the problems are in no specific order)
 *********************************************************
 
@@ -23,8 +23,8 @@ Java OpenGL
 *********************************************************
 
 Some of the programs need text files and images posted in these folders:
-Text&BinaryFiles
-card
+Text&BinaryFiles,
+card,
 image
 *********************************************************
 
