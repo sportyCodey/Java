@@ -1,3 +1,5 @@
+//implements Comparator so a GeometricObject can be compared
+
 import java.util.Comparator;
 
 public class GeometricObjectComparator
