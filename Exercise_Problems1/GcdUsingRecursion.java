@@ -1,3 +1,5 @@
+//recursion program to find the GCD
+
 import java.util.Scanner;
 
 public class GcdUsingRecursion {
