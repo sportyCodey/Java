@@ -1,3 +1,5 @@
+//creates a binary data file
+
 import java.io.*;
 
 public class CreateABinaryDataFile {
