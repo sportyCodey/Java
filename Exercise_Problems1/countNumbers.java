@@ -1,3 +1,5 @@
+//this program calculates the number(s) with the most occurrences from numbers from the user
+
 import java.util.*;
 
 public class countNumbers {
