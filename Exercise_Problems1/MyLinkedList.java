@@ -1,3 +1,5 @@
+//implementation for a LinkedList
+
 import java.util.Collection;
 
 public class MyLinkedList<E> extends MyAbstractList<E> {
