@@ -1,5 +1,6 @@
 /* this file has the interface, abstract class, and implementation file for convenience,
 * but there are separate files with more functionality posted */
+//GUI app that simulates a LinkedList
 
 import javafx.application.Application;
 import javafx.scene.Scene;
