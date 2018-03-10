@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class ComputeFibonacci {
 
-	 static long count = 0;
+  static long count = 0;
   /** Main method */
   public static void main(String[] args) {
     // Create a Scanner
