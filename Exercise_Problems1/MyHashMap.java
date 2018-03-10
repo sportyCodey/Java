@@ -1,3 +1,6 @@
+//defines a HashMap
+//used in other classes
+
 import java.util.LinkedList;
 
 public class MyHashMap<K, V> implements MyMap<K, V> {
