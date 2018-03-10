@@ -1,3 +1,5 @@
+//converts an infix expression to a postfix expression
+
 import java.util.*;
 
 public class ConvertInfixToPostfix {
