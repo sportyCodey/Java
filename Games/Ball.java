@@ -1,3 +1,6 @@
+//class that makes you moveable and creates opponent
+//creates the logic of the game
+
 import javafx.scene.layout.Pane;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Circle;
