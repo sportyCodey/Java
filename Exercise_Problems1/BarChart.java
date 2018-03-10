@@ -1,3 +1,5 @@
+/* displays a bar char */
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
