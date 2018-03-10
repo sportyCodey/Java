@@ -1,3 +1,5 @@
+//class that defines a method to sort a Generic ArrayList
+
 import java.util.ArrayList;
 
 public class SortGenericArrayList {
