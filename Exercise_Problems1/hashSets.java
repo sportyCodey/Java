@@ -1,3 +1,5 @@
+//tests methods from a HashSet
+
 import java.util.*;
 
 public class hashSets {
