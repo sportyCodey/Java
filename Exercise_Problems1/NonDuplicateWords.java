@@ -1,3 +1,5 @@
+//displays nonduplicate words from a file
+
 import java.util.*;
 import java.io.*;
 
