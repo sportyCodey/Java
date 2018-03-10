@@ -1,3 +1,5 @@
+//recurisve program that reverses a digit
+
 import java.util.*;
 
 public class RecursiveReverseDigit {
