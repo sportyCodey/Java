@@ -1,3 +1,5 @@
+//GUI app that simulates an ArrayList, and it has animations 
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
