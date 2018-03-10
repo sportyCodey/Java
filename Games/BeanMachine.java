@@ -1,3 +1,5 @@
+//class that creates the bean machine and logic
+
 import javafx.scene.Group;
 import javafx.scene.shape.Circle;
 import javafx.scene.shape.Polyline;
