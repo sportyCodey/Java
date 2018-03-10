@@ -1,3 +1,5 @@
+//recursive program that reverses a String
+
 public class RecursiveReverseString {
 	public static void main(String[] args) {
 		java.util.Scanner input = new java.util.Scanner(System.in);
