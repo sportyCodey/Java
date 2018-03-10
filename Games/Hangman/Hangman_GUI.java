@@ -215,8 +215,8 @@ public class Hangman_GUI extends Application {
 		input.setOnKeyPressed( e -> {
 			switch (e.getCode()) {
 				case ENTER:	if (!end) {
-									disclaimer.setVisible(false);
-									if (input.getText().length() != 1) {
+								disclaimer.setVisible(false);
+								if (input.getText().length() != 1) {
 									input.setText("");
 									error_1.setVisible(true);
 									error_2.setVisible(false);
