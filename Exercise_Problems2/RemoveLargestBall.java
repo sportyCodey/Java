@@ -1,3 +1,8 @@
+//hold down the mouse to pause and release the mouse to resume
+//press the + and - buttons to add and delete balls respectively
+//scroll the scroll bar to increase/decrease the speed
+//when deleted, the largest ball will be deleted first
+
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.application.Application;
