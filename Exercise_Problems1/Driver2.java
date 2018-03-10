@@ -1,3 +1,6 @@
+//this can be used to test a class
+//here it's testing Tailgate and Snack
+
 import java.io.*;
 
 public class Driver2{
