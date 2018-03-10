@@ -1,5 +1,6 @@
 /* press G to grab sword and Enter to swing sword
 * press arrow keys to move */
+//play game here (see issues)
 
 import javafx.application.Application;
 import javafx.scene.Scene;
