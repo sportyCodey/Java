@@ -1,4 +1,4 @@
-/* click on balls to delete them. scroll the scroll bar to increase speed
+/* click on balls to delete them. scroll the scroll bar to increase/decrease speed
 * the rest is self-explanatory */
 
 import javafx.animation.KeyFrame;
@@ -129,7 +129,7 @@ public class CombineBouncingBalls extends Application {
 				this.getChildren().remove(temp);
 				ball.setRadius(temp.getRadius() + ball.getRadius());
 			}
-			/* even better (solution manuel)
+			/* even better 
 			if (ball.intersects(temp.getBoundsInLocal())) {
 
 			}
