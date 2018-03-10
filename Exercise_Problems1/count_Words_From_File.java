@@ -1,3 +1,5 @@
+//reads from a file and counts the occurrence of words
+
 import java.util.*;
 import java.io.*;
 
