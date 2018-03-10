@@ -1,3 +1,6 @@
+//GUI app that lets user select a font and size for a text
+//the user can check whether the text is bold or italic
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
