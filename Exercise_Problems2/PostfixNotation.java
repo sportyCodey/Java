@@ -1,4 +1,4 @@
-/* You will notice similarites with the program in the book. I did come up with this though. */
+/* programt that prints a postfix expression */
 
 import java.util.*;
 
