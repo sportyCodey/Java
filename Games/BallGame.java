@@ -1,6 +1,6 @@
 /* move with arrow keys.
 * press space to shoot */
-//play the game here
+//play the game here (see issues)
 
 import javafx.application.Application;
 import javafx.stage.Stage;
