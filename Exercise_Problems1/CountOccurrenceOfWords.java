@@ -1,3 +1,5 @@
+//counts the occurrence of words
+
 import java.util.*;
 
 public class CountOccurrenceOfWords {
