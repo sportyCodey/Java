@@ -1,3 +1,5 @@
+//class to model player's/opponent's health
+
 import javafx.scene.Node;
 
 public class health {
