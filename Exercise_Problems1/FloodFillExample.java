@@ -1,3 +1,5 @@
+//flood fill algorithm in action
+
 public class FloodFillExample {
 
 	public static final int LENGTH = 10;
