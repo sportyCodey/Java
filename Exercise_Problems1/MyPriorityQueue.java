@@ -1,3 +1,5 @@
+//implements a queue
+
 import java.util.Comparator;
 
 public class MyPriorityQueue<E> {
