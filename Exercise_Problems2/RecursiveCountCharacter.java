@@ -1,3 +1,5 @@
+//recurisve program that counts the number of occurrences of a letter in a String
+
 public class RecursiveCountCharacter {
 	public static void main(String[] args) {
 		java.util.Scanner input = new java.util.Scanner(System.in);
