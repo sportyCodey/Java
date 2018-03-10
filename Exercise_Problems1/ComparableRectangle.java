@@ -1,4 +1,5 @@
 //implements the Comparble interface so Rectangles can be compared 
+//used in another class
 
 public class ComparableRectangle extends Rectangle
     implements Comparable<ComparableRectangle> {
