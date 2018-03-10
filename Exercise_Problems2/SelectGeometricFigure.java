@@ -1,3 +1,5 @@
+//GUI app that lets user choose a shape and fill it with a color
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
