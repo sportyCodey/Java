@@ -1,3 +1,5 @@
+//creates the data structure Heap
+
 public class Heap<E extends Comparable<E>> {
   private java.util.ArrayList<E> list = new java.util.ArrayList<>();
 
