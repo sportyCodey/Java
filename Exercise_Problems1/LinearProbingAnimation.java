@@ -1,3 +1,5 @@
+//GUI app that simulates linear probing hashing
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
