@@ -1,4 +1,5 @@
 /* You can change whether it sorts increasing or decreasing by changing 1 to -1 and so on */
+//defines class Point
 
 public class Point implements Comparable<Point> {
 	private int x, y;
