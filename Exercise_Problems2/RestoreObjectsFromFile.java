@@ -1,3 +1,5 @@
+//this program reads Objects from a file and calculates the total loan amount
+
 import java.io.*;
 
 public class RestoreObjectsFromFile {
