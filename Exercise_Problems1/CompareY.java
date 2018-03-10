@@ -1,4 +1,4 @@
-//implements Comparator interface so client can compare Points
+//implements Comparator interface so Points can be compared
 
 import java.util.Comparator;
 
