@@ -1,3 +1,5 @@
+//class that models a Snack and its various attributes
+
 public class Snack {
 
 	private String name;
