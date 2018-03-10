@@ -1,3 +1,5 @@
+//defines the class Course for a school course
+
 class Course {
 
 	private String[] info = new String[4];
