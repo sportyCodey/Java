@@ -1,3 +1,5 @@
+//class that defines a personal shuffle method
+
 import java.util.ArrayList;
 
 public class ShuffleArray {
