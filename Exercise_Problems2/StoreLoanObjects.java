@@ -1,3 +1,5 @@
+//writes Loan objects to binary file
+
 import java.io.*;
 
 public class StoreLoanObjects {
