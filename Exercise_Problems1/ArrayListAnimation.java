@@ -1,8 +1,9 @@
-import javafx.application.Application;
 /* interface, abstract class, and implementation is in this file
 * for convenience, but there are separate files for each with
-* for functionality */
+* for functionality
+* this app simulates an arraylist */
 
+import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 import java.util.*;
