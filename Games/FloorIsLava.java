@@ -1,3 +1,5 @@
+//defines the class FloorIsLava to play the game FloorIsLava
+
 import java.util.ArrayList;
 import java.util.Random;
 
