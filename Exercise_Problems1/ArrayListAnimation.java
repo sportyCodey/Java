@@ -1,6 +1,6 @@
 /* interface, abstract class, and implementation is in this file
 * for convenience, but there are separate files for each with
-* for functionality
+* more functionality
 * this app simulates an arraylist */
 
 import javafx.application.Application;
