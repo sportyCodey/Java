@@ -1,5 +1,6 @@
 /* click on balls to delete them. scroll the scroll bar to increase/decrease speed
 * the rest is self-explanatory */
+//this GUI app simulates bouncing balls that combine when they collide
 
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
