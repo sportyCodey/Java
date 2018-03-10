@@ -1,3 +1,5 @@
+//sums integers from a binary file
+
 import java.io.*;
 
 public class SumIntegersInBinaryFile {
