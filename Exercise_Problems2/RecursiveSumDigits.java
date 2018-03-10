@@ -1,3 +1,5 @@
+//recursive program that sums the digits of a given integer
+
 public class RecursiveSumDigits {
 	public static void main(String[] args) {
 		java.util.Scanner input = new java.util.Scanner(System.in);
