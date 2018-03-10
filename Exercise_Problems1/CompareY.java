@@ -1,3 +1,5 @@
+//implements Comparator interface so client can compare Points
+
 import java.util.Comparator;
 
 public class CompareY implements Comparator<Point> {
