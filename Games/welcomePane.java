@@ -1,4 +1,4 @@
-//class that defines the welcome pane for the game 
+//class that defines the welcome pane for the game BallGame
 
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.HBox;
