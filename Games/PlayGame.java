@@ -1,3 +1,5 @@
+//play the game FloorIsLava here
+
 import java.util.Scanner;
 
 public class PlayGame {
