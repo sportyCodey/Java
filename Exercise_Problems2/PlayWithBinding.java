@@ -1,4 +1,5 @@
 /* move with arrow keys */
+//GUI app to practice binding
 
 import javafx.application.Application;
 import javafx.scene.Scene;
