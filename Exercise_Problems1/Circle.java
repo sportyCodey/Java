@@ -1,3 +1,5 @@
+//class to model a Circle
+
 public class Circle extends GeometricObject {
   private double radius;
 
