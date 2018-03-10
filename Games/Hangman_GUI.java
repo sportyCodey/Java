@@ -1,3 +1,5 @@
+//plays the game hangman
+
 import java.util.*;
 import javafx.application.Application;
 import javafx.scene.Scene;
