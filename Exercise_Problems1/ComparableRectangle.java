@@ -1,3 +1,5 @@
+//implements the Comparble interface so client can compare Rectangles
+
 public class ComparableRectangle extends Rectangle
     implements Comparable<ComparableRectangle> {
   /** Construct a ComparableRectangle with specified properties */
