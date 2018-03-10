@@ -1,3 +1,5 @@
+//GUI app that lets user change the color of the square
+
 import javafx.application.Application;
 import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
