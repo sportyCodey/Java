@@ -1,3 +1,5 @@
+//class to implement an ArrayList
+
 import java.util.Collection;
 
 public class MyArrayList<E> extends MyAbstractList<E> {
@@ -12,7 +14,7 @@ public class MyArrayList<E> extends MyAbstractList<E> {
   /** Create a list from an array of objects */
   public MyArrayList(E[] objects) {
     for (int i = 0; i < objects.length; i++)
-      add(objects[i]); // Warning: don’t use super(objects)!
+      add(objects[i]); // Warning: donâ€™t use super(objects)!
   }
 
   @Override /** Add a new element at the specified index */
