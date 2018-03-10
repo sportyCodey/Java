@@ -1,4 +1,4 @@
-/* displays a bar char */
+/* displays a bar chart */
 
 import javafx.application.Application;
 import javafx.scene.Scene;
