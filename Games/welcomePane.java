@@ -1,3 +1,5 @@
+//class that defines the welcome pane for the game 
+
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.HBox;
 import javafx.scene.control.Label;
