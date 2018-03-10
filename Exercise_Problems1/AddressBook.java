@@ -1,3 +1,5 @@
+//GUI app to let user put in addresses
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
