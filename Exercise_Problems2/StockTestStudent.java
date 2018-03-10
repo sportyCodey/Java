@@ -1,3 +1,5 @@
+//creates the Stock class and tests it in the main
+
 public class StockTestStudent {
   public static void main(String[] args) {
 	  //stock1 has name "AAPL", purchase price of 357.98, quantity 45
