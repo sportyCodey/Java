@@ -1,3 +1,5 @@
+//converts textfile to UTF
+
 import java.io.*;
 import java.util.Scanner;
 
