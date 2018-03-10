@@ -1,3 +1,5 @@
+//adds a Comparator to a Heap
+
 import java.util.Comparator;
 
 public class HeapWithComparator<E> {
