@@ -1,3 +1,5 @@
+//class that lets user customize fighter (ball)
+
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.HBox;
 import javafx.geometry.Pos;
