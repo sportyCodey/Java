@@ -1,3 +1,5 @@
+//reads from a file and counts the number of vowels and consonants
+
 import java.util.*;
 import java.io.*;
 
