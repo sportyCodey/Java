@@ -1,3 +1,5 @@
+//Program to tell if any number is equal in the matrix. 
+
 import java.util.Scanner;
 
 public class AnyEqual {
