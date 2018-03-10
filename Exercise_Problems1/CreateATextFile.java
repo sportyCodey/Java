@@ -1,3 +1,5 @@
+//creates a textfile 
+
 import java.io.*;
 
 public class CreateATextFile {
