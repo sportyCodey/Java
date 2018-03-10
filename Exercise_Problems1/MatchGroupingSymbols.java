@@ -1,3 +1,5 @@
+//program to determine if a Java file uses the symbols in the right places 
+
 import java.util.Scanner;
 import java.io.*;
 import java.util.Stack;
