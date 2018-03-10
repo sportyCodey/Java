@@ -1,3 +1,5 @@
+//this is used in FloorIsLava.java
+
 public class LavaProofFurniture {
 
 	public String name;
