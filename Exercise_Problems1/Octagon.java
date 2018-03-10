@@ -1,3 +1,5 @@
+//defines the class Octagon that is both Comparable and Cloneable
+
 public class Octagon extends GeometricObject implements Comparable<Octagon>, Cloneable {
 	private int side;
 
