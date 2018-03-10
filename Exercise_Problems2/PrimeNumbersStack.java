@@ -1,3 +1,5 @@
+//prints prime numbers using a Stack
+
 public class PrimeNumbersStack {
 	public static void main(String[] args) {
 		GenericStack<Integer> stack = new GenericStack<>();
