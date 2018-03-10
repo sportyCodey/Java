@@ -1,3 +1,5 @@
+//defines the class SimpleGeometricObject
+
 public class SimpleGeometricObject {
   private String color = "white";
   private boolean filled;
