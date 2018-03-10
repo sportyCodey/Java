@@ -1,3 +1,5 @@
+//quiz for the state capitals using a Map
+
 import java.util.*;
 
 public class GuessTheCapitals {
@@ -31,6 +33,7 @@ public class GuessTheCapitals {
 		entry.put("Alaska", "Juneau");
 		entry.put("Arizona", "Phoenix");
 		entry.put("Arkansas", "Little Rock");
+		//rest of the U.S. states go here
 	}
 
 }//end class
