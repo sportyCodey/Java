@@ -1,3 +1,6 @@
+//GUI app that simulates OS page replacement algorithms
+//small personal project
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
