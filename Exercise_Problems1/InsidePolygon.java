@@ -1,3 +1,5 @@
+//GUI app to tell the user if a point is inside the polygon or not
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
