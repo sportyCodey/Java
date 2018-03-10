@@ -1,4 +1,5 @@
 //This program creates the abstract class GeometricObject
+//this is used in many other classes
 
 public abstract class GeometricObject {
   private String color = "white";
