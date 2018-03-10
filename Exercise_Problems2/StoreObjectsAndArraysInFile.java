@@ -1,3 +1,5 @@
+//writes Objects and Arrays to binary file
+
 import java.io.*;
 
 public class StoreObjectsAndArraysInFile {
