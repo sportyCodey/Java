@@ -1,4 +1,4 @@
-//creates a textfile 
+//creates a textfile that appends to the end of the file
 
 import java.io.*;
 
