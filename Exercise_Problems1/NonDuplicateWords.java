@@ -29,7 +29,7 @@ public class NonDuplicateWords {
 				scanWords.add(word);
 		}
 */
-		//another way to do it (some from solution manuel)
+		//another way to do it 
 		String s = "";
 		while(scanFile.hasNext()) {
 			s += scanFile.next() + " ";
