@@ -1,3 +1,5 @@
+//reads from a file and displays names that are in both genders
+
 import java.util.*;
 import java.io.*;
 
