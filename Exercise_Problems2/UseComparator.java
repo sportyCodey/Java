@@ -30,7 +30,7 @@ public class UseComparator {
 		      		currentMin = list[j];
 		          	currentMinIndex = j;
 		        }
-		  	}
+		    }
 
 		    // Swap list[i] with list[currentMinIndex] if necessary;
 		    if (currentMinIndex != i) {
