@@ -1,3 +1,5 @@
+//this program sorts Points
+
 import java.util.*;
 
 public class TestCompare {
