@@ -28,7 +28,7 @@ card,
 image
 *********************************************************
 
-Games I made (more on that in the description below):
+Games I made (please check the Issues page about my games):
 Games
 *********************************************************
 
