@@ -1,3 +1,5 @@
+//GUI app that displays a face
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.layout.Pane;
@@ -41,7 +43,7 @@ public class smileyFace extends Application{
 		Scene scene = new Scene(pane);
 		primaryStage.setTitle("smileyFace");
 		primaryStage.setScene(scene);
-    	primaryStage.show();
+    		primaryStage.show();
 	}
 
 	public static void main(String[] args) {
