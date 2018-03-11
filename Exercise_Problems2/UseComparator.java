@@ -1,3 +1,5 @@
+//implements a Generic selectionSort method using a Comparator 
+
 import java.util.Comparator;
 
 public class UseComparator {
