@@ -1,3 +1,5 @@
+//creates the class Tailgate
+
 import java.util.ArrayList;
 import java.io.*;
 
