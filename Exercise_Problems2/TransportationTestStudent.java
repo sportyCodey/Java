@@ -1,3 +1,6 @@
+//creates the classes Transportation, SolarCar, and Bicyle
+//it then tests them
+
 public class TransportationTestStudent {
   public static void main(String[] args) {
 	  SolarCar x = new SolarCar();
