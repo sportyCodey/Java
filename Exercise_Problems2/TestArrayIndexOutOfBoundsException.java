@@ -1,6 +1,6 @@
 //This program prompts the user to enter the index of the array,
 //then displays the corresponding element value.
-//If the specified index is out of bounds, it displays the message ìOut of Boundsî
+//If the specified index is out of bounds, it displays the message ‚ÄúOut of Bounds‚Äù
 
 import java.util.*;
 import java.lang.ArrayIndexOutOfBoundsException;
@@ -15,19 +15,20 @@ public class TestArrayIndexOutOfBoundsException{
 		}
 		System.out.println("Enter an index of the array between "
 		+ " 0 and 99");
-	    int index = input.nextInt();
+		
+	  	int index = input.nextInt();
 
 
-			try {
+		try {
 
-				System.out.println("The number entered is " + myArrayIndex[index]);
-			}
+			System.out.println("The number entered is " + myArrayIndex[index]);
+		}
 
-			catch(ArrayIndexOutOfBoundsException ex){
-				System.out.println("Out of bounds ");
-				input.nextLine();
-			}
-	}//end main
+		catch(ArrayIndexOutOfBoundsException ex){
+			System.out.println("Out of bounds ");
+			input.nextLine();
+		}
+        }//end main
 }//end class ArrayIndexOutOufBoundsException
 
 
