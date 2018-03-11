@@ -1,3 +1,5 @@
+//this program tests a GeometricObject
+
 public class TestGeometricObject2 {
   /** Main method */
   public static void main(String[] args) {
@@ -15,11 +17,11 @@ public class TestGeometricObject2 {
     // Display rectangle
     displayGeometricObject(geoObject2);
 
-	// Display square
-	displayGeometricObject(geoObject3);
+    // Display square
+    displayGeometricObject(geoObject3);
 
-	System.out.println("The two objects have the same area? " +
-	  equalArea(geoObject1, geoObject3));
+    System.out.println("The two objects have the same area? " +
+           equalArea(geoObject1, geoObject3));
 
 
   }
