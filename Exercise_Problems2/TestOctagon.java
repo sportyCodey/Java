@@ -1,3 +1,5 @@
+//this program tests Octagon
+
 public class TestOctagon {
 	public static void main(String[] args) {
 		Octagon octagon1 = new Octagon("Blue", true, 5);
