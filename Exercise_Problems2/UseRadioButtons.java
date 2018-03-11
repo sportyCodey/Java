@@ -1,3 +1,5 @@
+//GUI app that lets user move text and change it's color
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
