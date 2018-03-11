@@ -1,3 +1,5 @@
+//this program tests MyArrayList
+
 public class TestMyArrayList {
   /** Main method */
   public static void main(String[] args) {
