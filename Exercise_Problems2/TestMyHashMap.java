@@ -1,3 +1,5 @@
+//This program tests MyHashHap
+
 public class TestMyHashMap {
   public static void main(String[] args) {
 
