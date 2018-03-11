@@ -1,3 +1,5 @@
+//GUI app that lets user display text in a file inside the GUI
+
 import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
