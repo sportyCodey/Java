@@ -1,3 +1,5 @@
+//this program tests Triangle
+
 import java.util.Scanner;
 
 public class TestTriangleHW8{
