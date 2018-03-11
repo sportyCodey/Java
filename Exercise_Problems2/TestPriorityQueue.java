@@ -1,3 +1,5 @@
+//this program tests PriorityQueue
+
 import java.util.Comparator;
 
 public class TestPriorityQueue {
