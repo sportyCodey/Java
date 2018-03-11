@@ -1,3 +1,5 @@
+//keeps count of how many times the user has opened up this program
+
 import java.io.*;
 
 public class UpdateCount {
