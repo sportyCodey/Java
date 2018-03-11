@@ -1,3 +1,5 @@
+//defines Comparable class WordOccurrence 
+
 public class WordOccurence implements Comparable<WordOccurence> {
 	private String word;
 	private int count;
