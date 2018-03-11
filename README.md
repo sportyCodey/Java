@@ -40,7 +40,7 @@ The work shown was done in my beginner and intermediate stages of learning Java.
 
 In order to run the JOGL programs, you must ensure your graphics card supports at least version 4.3 of OpenGL, install JOGL, and install graphicslib3D.
 
-I would love to go over them again one day to make them better, cleaner, more modularized, and more efficient. I would also love go over them again to document my code better. The best way to learn and become a better programmer is to simply give it a go and practie coding. That was my plan here (other than the code I had to do for a grade in class). I improve every time I code. It takes time, hard work, and patience!
+I would love to go over the exercise problems again one day to make them better, cleaner, more modularized, and more efficient. I would also love go over them again to document my code better. The best way to learn and become a better programmer is to simply give it a go and practie coding. That was my plan here (other than the code I had to do for a grade in class). I improve every time I code. It takes time, hard work, and patience!
 
 I'm getting feedback from professionals that I need to "kick it up a notch" from programming problems in texbooks. So, this Spring and Summer I'll be working on larger personal projects in Java and other languages that will be my own ideas. I also plan on contributing to open source software in Java and other languages once I learn more about Git and am more comfortable with GitHub. I will also participate in programming contests like Kattis that will improve my programming in regards to strategy and algorithmic problems.
 
