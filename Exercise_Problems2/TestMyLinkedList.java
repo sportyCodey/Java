@@ -1,3 +1,5 @@
+//this program tests MyLinkedList
+
 public class TestMyLinkedList {
   /** Main method */
   public static void main(String[] args) {
