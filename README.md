@@ -32,7 +32,7 @@ Games I made (please check the Issues page about my games):
 Games
 *********************************************************
 
-I made a small personal project that simulates operating systems page replacement algorithms: SmallPersonalProjects
+I made a small personal project that simulates operating systems page replacement algorithms: SmallPersonalProject
 *********************************************************
 
 
