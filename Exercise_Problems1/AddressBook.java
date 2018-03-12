@@ -1,4 +1,11 @@
 //GUI app to let user put in addresses
+//if you're putting in a new address, click the "Add" button 
+//if you want to update an address, click the "Update" button
+//as of now, there is a flaw if you hit the "Update" button when you want to add a new entry,
+//so if you want to add a new entry, then hit the "Add" button, not the "Update"
+//this app destroys the info after each time the user closes the app
+//this can very easily be changed by commenting out addressBook.setLength(0);
+//I haven't changed this for testing purposes
 
 import javafx.application.Application;
 import javafx.scene.Scene;
